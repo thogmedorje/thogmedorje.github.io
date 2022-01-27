@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photo Gallary on Khöndung Asanga Vajra Sakya Rinpoche</title>
+    <link>http://www.asangasakya.com/photogallary/</link>
+    <description>Recent content in Photo Gallary on Khöndung Asanga Vajra Sakya Rinpoche</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>2017–2020, H.E. Asanga Rinpoche All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 04 Jan 2020 20:24:00 -0800</lastBuildDate>
+    
+	<atom:link href="http://www.asangasakya.com/photogallary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

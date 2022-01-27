@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 萨迦无著金刚仁波切</title>
+    <link>http://www.asangasakya.com/cn/categories/</link>
+    <description>Recent content in Categories on 萨迦无著金刚仁波切</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <copyright>2017–2020, H.E. Asanga Rinpoche All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 26 Jan 2022 18:31:41 -0800</lastBuildDate>
+    
+	<atom:link href="http://www.asangasakya.com/cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>新闻</title>
+      <link>http://www.asangasakya.com/cn/categories/%E6%96%B0%E9%97%BB/</link>
+      <pubDate>Wed, 26 Jan 2022 18:31:41 -0800</pubDate>
+      
+      <guid>http://www.asangasakya.com/cn/categories/%E6%96%B0%E9%97%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>教言</title>
+      <link>http://www.asangasakya.com/cn/categories/%E6%95%99%E8%A8%80/</link>
+      <pubDate>Tue, 11 May 2021 14:10:02 -0700</pubDate>
+      
+      <guid>http://www.asangasakya.com/cn/categories/%E6%95%99%E8%A8%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>法讯</title>
+      <link>http://www.asangasakya.com/cn/categories/%E6%B3%95%E8%AE%AF/</link>
+      <pubDate>Fri, 26 Mar 2021 07:52:42 -0700</pubDate>
+      
+      <guid>http://www.asangasakya.com/cn/categories/%E6%B3%95%E8%AE%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>公告</title>
+      <link>http://www.asangasakya.com/cn/categories/%E5%85%AC%E5%91%8A/</link>
+      <pubDate>Sun, 01 Apr 2018 01:02:03 -0800</pubDate>
+      
+      <guid>http://www.asangasakya.com/cn/categories/%E5%85%AC%E5%91%8A/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

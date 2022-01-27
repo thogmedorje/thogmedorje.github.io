@@ -1,0 +1,108 @@
+.hea-header-tricolor {
+  background: #00f url(../images/tricolor3.png) repeat-x top;
+  height: 8px;
+  position: fixed;
+    top: 96px;
+    right: 0;
+    left: 0;
+    z-index: -1;
+}
+
+
+
+
+.index-title{
+    color: rgba(0,0,0,.84);
+    margin-top:20px;
+}
+.index-sub{
+    color: rgba(0,0,0,.54);
+
+}
+.index-text{
+    margin-top:20px;
+    color: rgba(0,0,0,.44);
+}
+.index-image{
+    width: 400px;
+}
+.social-icon{
+    color: rgba(0,0,0,.44);
+    font-size:1.5rem;
+}
+.clock{
+    margin-left: 25px;
+}
+.jumbotron.fortags a {
+    background: #1C9963 !important;
+}
+.error{
+    text-align: center !important;
+}
+@media(min-width: 769px){
+    .md-nopad-right{
+        padding-right: 0px !important;
+    }
+    .md-nopad-left{
+        padding-left: 0px !important;
+    }
+}
+
+
+.carousel {
+    background: #EEE;
+  }
+  
+  .carousel img {
+    display: block;
+    height: 200px;
+  }
+  
+  @media screen and ( min-width: 768px ) {
+    .carousel img {
+      height: 400px;
+    }
+  }
+
+  .carousel-cell {
+    width: 66%;
+    height: 200px;
+    margin-right: 10px;
+    background: #8C8;
+    border-radius: 5px;
+    counter-increment: carousel-cell;
+  }
+  
+  /* cell number */
+  .carousel-cell:before {
+    display: block;
+    text-align: center;
+    content: counter(carousel-cell);
+    line-height: 200px;
+    font-size: 80px;
+    color: white;
+  }
+
+  .center-cropped {
+    width: 450px;
+    height: 450px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+  }
+  
+  /* Set the image to fill its parent and make transparent */
+  .center-cropped img {
+    min-height: 100%;
+    min-width: 100%;
+    /* IE 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    /* IE 5-7 */
+    filter: alpha(opacity=0);
+    /* modern browsers */
+    opacity: 0;
+  }
+
+  .centered-and-cropped { object-fit: cover }
+
+  
